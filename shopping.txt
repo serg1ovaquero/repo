@@ -1,8 +1,8 @@
 Mercadona
 ----------
-huevos
-sal
-pimienta
+- huevos
+- sal
+- pimienta
 
 Add Carrefour shooping list
 ---------------------------
